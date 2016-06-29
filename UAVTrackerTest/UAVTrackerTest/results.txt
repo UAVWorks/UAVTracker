@@ -1,0 +1,8 @@
+************************************************************
+video name              fps            tracking accuracy(%)
+bolt1.avi               18             89.714                   
+dji.mp4                 43             99.720                   
+dji5.mp4                19             90.992                   
+dji3.mp4                18             99.915                   
+carchase.mpg            21             98.780                   
+car4.mp4                29             100.000                  
